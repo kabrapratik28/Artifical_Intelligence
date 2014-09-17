@@ -1,0 +1,121 @@
+pratik@ubuntu:~/Desktop$ python a_star_algorithm.py  < input
+Give No of dimensionValue of x=0: y= 0 : Value of x=0: y= 1 : Value of x=0: y= 2 : Value of x=0: y= 3 : Value of x=1: y= 0 : Value of x=1: y= 1 : Value of x=1: y= 2 : Value of x=1: y= 3 : Value of x=2: y= 0 : Value of x=2: y= 1 : Value of x=2: y= 2 : Value of x=2: y= 3 : Value of x=3: y= 0 : Value of x=3: y= 1 : Value of x=3: y= 2 : Value of x=3: y= 3 : Value for x= 0 :Value for x= 1 :Value for x= 2 :Value for x= 3 :
+{1: 11, 2: 8}
+[0]
+[0, 1, 3, 9999]
+2
+---------
+{1: 11, 3: 4}
+[0, 2]
+[0, 1, 3, 4]
+3
+---------
+Answer
+{1: 11, 3: 4}
+[0, 2]
+[0, 1, 3, 4]
+Final min distance
+4
+pratik@ubuntu:~/Desktop$ python a_star_algorithm.py  < input
+Give No of dimensionValue of x=0: y= 0 : Value of x=0: y= 1 : Value of x=0: y= 2 : Value of x=0: y= 3 : Value of x=1: y= 0 : Value of x=1: y= 1 : Value of x=1: y= 2 : Value of x=1: y= 3 : Value of x=2: y= 0 : Value of x=2: y= 1 : Value of x=2: y= 2 : Value of x=2: y= 3 : Value of x=3: y= 0 : Value of x=3: y= 1 : Value of x=3: y= 2 : Value of x=3: y= 3 : Value for x= 0 :Value for x= 1 :Value for x= 2 :Value for x= 3 :
+{1: 11, 2: 53}
+[0]
+[0, 1, 3, 9999]
+1
+---------
+{2: 53, 3: 6}
+[0, 1]
+[0, 1, 3, 6]
+3
+---------
+Answer
+{2: 53, 3: 6}
+[0, 1]
+[0, 1, 3, 6]
+Final min distance
+6
+pratik@ubuntu:~/Desktop$ python a_star_algorithm.py  
+Give No of dimension4
+Value of x=0: y= 0 : 9999
+Value of x=0: y= 1 : 2
+Value of x=0: y= 2 : 1
+Value of x=0: y= 3 : 9999
+Value of x=1: y= 0 : 2
+Value of x=1: y= 1 : 9999
+Value of x=1: y= 2 : 1
+Value of x=1: y= 3 : 11
+Value of x=2: y= 0 : 1
+Value of x=2: y= 1 : 1
+Value of x=2: y= 2 : 9999
+Value of x=2: y= 3 : 8
+Value of x=3: y= 0 : 9999
+Value of x=3: y= 1 : 11
+Value of x=3: y= 2 : 8
+Value of x=3: y= 3 : 9999
+Value for x= 0 :90
+Value for x= 1 :10
+Value for x= 2 :5
+Value for x= 3 :0
+
+{1: 12, 2: 6}
+[0]
+[0, 2, 1, 9999]
+2
+---------
+{1: 12, 3: 9}
+[0, 2]
+[0, 2, 1, 9]
+3
+---------
+Answer
+{1: 12, 3: 9}
+[0, 2]
+[0, 2, 1, 9]
+Final min distance
+9
+pratik@ubuntu:~/Desktop$ python a_star_algorithm.py  
+Give No of dimension4
+Value of x=0: y= 0 : 9999
+Value of x=0: y= 1 : 2
+Value of x=0: y= 2 : 1
+Value of x=0: y= 3 : 9999
+Value of x=1: y= 0 : 2
+Value of x=1: y= 1 : 9999
+Value of x=1: y= 2 : 1
+Value of x=1: y= 3 : 11
+Value of x=2: y= 0 : 1
+Value of x=2: y= 1 : 1
+Value of x=2: y= 2 : 9999
+Value of x=2: y= 3 : 8
+Value of x=3: y= 0 : 9999
+Value of x=3: y= 1 : 11
+Value of x=3: y= 2 : 8
+Value of x=3: y= 3 : 9999
+Value for x= 0 :90
+Value for x= 1 :5
+Value for x= 2 :10
+Value for x= 3 :0
+
+{1: 7, 2: 11}
+[0]
+[0, 2, 1, 9999]
+1
+---------
+{2: 11, 3: 13}
+[0, 1]
+[0, 2, 1, 13]
+2
+---------
+{3: 9}
+[0, 1, 2]
+[0, 2, 1, 9]
+3
+---------
+Answer
+{3: 9}
+[0, 1, 2]
+[0, 2, 1, 9]
+Final min distance
+9
+pratik@ubuntu:~/Desktop$ 
+
