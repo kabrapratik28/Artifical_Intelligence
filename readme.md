@@ -1,5 +1,7 @@
 Artifical Intelligence tutorial
 
+============
+
 VIT
 
 ============
@@ -13,6 +15,8 @@ VIT
 4.Family tree in prolog
 
 5.Tic Tac Teo
+
+============
 
 USC
 
