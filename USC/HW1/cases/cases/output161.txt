@@ -1,0 +1,6 @@
+A 0
+EQM 0
+JI 19
+CTD 26
+ZL 45
+CCL 87

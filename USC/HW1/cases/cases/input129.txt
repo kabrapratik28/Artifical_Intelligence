@@ -1,0 +1,67 @@
+A*
+A
+B
+52
+A E 64
+B E 43
+J I 94
+I C 48
+G D 14
+G H 16
+F H 39
+F A 28
+G I 73
+I D 53
+E J 32
+I J 57
+G E 18
+F I 1
+I E 52
+F J 26
+B I 40
+A G 95
+E C 97
+I H 40
+B D 75
+F B 92
+B G 45
+A I 7
+F D 95
+G F 42
+J A 16
+E F 63
+A F 11
+A B 89
+A J 30
+J C 31
+A H 85
+C G 10
+I F 70
+B F 77
+B C 98
+I G 25
+J G 22
+I A 39
+C B 39
+B A 38
+A D 50
+B H 76
+G C 61
+B J 45
+E B 63
+F C 48
+G A 74
+E I 39
+A C 78
+I B 31
+10
+A 78
+B 83
+C 65
+D 30
+E 53
+F 45
+G 97
+H 15
+I 99
+J 65

@@ -1,5 +1,9 @@
 Artifical Intelligence tutorial
 
+VIT
+
+============
+
 1.A star algorithm
 
 2.Constaint Satisfaction
@@ -10,3 +14,8 @@ Artifical Intelligence tutorial
 
 5.Tic Tac Teo
 
+USC
+
+============
+
+HomeWork 1 Maps (BFS,DFS,USC,AStar)

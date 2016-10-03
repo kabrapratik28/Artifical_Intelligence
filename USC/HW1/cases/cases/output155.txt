@@ -1,0 +1,7 @@
+A 0
+BNL 2
+KB 8
+KJ 37
+BMM 74
+BLI 92
+MP 144

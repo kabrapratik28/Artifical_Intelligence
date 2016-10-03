@@ -1,0 +1,8 @@
+A 0
+UT 1
+CY 2
+BM 3
+HS 4
+MA 5
+PM 6
+LK 7

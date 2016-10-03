@@ -1,0 +1,108 @@
+DFS
+A
+Y
+76
+Q K 33
+BA M 12
+V U 40
+M P 29
+E D 0
+K O 17
+Q V 89
+I M 24
+F E 11
+W D 96
+R X 92
+J X 64
+BC Q 69
+Z J 24
+A F 56
+A D 18
+K BA 31
+S F 14
+K X 60
+A S 19
+BC BA 60
+R P 85
+BA Z 2
+Z X 93
+E P 33
+I D 33
+X I 97
+K R 88
+E L 5
+F O 5
+F W 19
+Z BA 55
+V Y 33
+T V 16
+BC N 7
+S H 38
+Y D 70
+T A 74
+X D 49
+Q W 37
+E X 97
+Y N 58
+Z G 37
+M G 27
+BA R 8
+X BC 30
+S N 37
+V O 22
+J T 27
+F Z 2
+E Q 70
+I L 26
+Z N 1
+U H 2
+BC M 71
+P H 16
+M R 50
+V I 53
+S P 30
+E T 88
+A W 74
+J Q 58
+S M 25
+H BC 25
+I S 91
+Q S 6
+S G 82
+BA F 12
+P BC 61
+E W 0
+Z S 72
+R Y 45
+H N 97
+F C 85
+Z U 13
+O J 43
+27
+A 7
+C 91
+D 34
+E 13
+F 66
+G 96
+H 0
+I 27
+J 10
+K 59
+L 25
+M 71
+N 75
+O 63
+P 91
+Q 87
+R 56
+S 90
+T 83
+U 14
+V 33
+W 14
+X 95
+Y 99
+Z 96
+BA 17
+BC 51

@@ -1,0 +1,7 @@
+A 0
+BVI 0
+TD 7
+VZ 8
+BPZ 23
+OY 39
+LR 65

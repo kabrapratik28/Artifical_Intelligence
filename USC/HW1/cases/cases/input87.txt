@@ -1,0 +1,31 @@
+BFS
+A
+I
+15
+N P 12
+K N 57
+K C 39
+P F 60
+H M 86
+P N 74
+F E 24
+N L 67
+E I 63
+P I 69
+N H 84
+A K 0
+H A 61
+E A 90
+N M 8
+11
+A 8
+C 20
+E 75
+F 17
+H 60
+I 6
+K 23
+L 99
+M 99
+N 29
+P 6

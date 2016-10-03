@@ -1,0 +1,30 @@
+A*
+A
+B
+19
+C D 17
+C B 60
+C E 73
+B D 36
+A D 54
+B A 40
+F A 61
+C F 10
+A C 48
+D E 64
+A E 30
+A F 86
+F D 78
+A B 39
+F B 87
+E F 95
+C A 98
+D F 29
+B E 40
+6
+A 73
+B 1
+C 47
+D 42
+E 97
+F 45

@@ -1,0 +1,41 @@
+A*
+A
+D
+28
+D E 30
+G E 85
+A G 15
+H F 95
+C F 74
+A H 70
+A C 73
+H D 57
+E H 64
+C E 90
+C D 86
+H B 22
+H C 39
+E A 61
+D H 77
+G B 99
+G F 45
+A F 59
+C B 2
+D F 56
+H E 62
+G D 66
+C G 18
+D C 68
+H A 92
+A D 65
+C A 75
+A B 81
+8
+A 70
+B 43
+C 95
+D 8
+E 74
+F 31
+G 32
+H 75

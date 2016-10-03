@@ -1,0 +1,267 @@
+A*
+A
+P
+241
+F S 51
+P T 56
+D Q 28
+F O 7
+N F 15
+J O 23
+U R 85
+S E 25
+E I 11
+S C 37
+A O 70
+R H 84
+L C 20
+Q G 83
+R B 58
+J B 26
+C U 78
+C N 86
+G S 83
+B R 81
+A H 72
+Q R 90
+B O 57
+K N 14
+U A 88
+E R 57
+S B 62
+Q L 11
+P H 22
+G L 57
+O D 91
+C K 50
+G F 57
+L K 45
+G I 48
+J U 98
+C E 92
+C D 61
+U C 79
+C H 76
+B I 39
+T Q 14
+L F 69
+K P 57
+B S 40
+L D 22
+S N 49
+D U 26
+B T 24
+A L 88
+L I 33
+U D 69
+L M 60
+F P 62
+P Q 95
+J A 31
+A T 27
+E G 23
+A P 42
+O K 21
+S M 39
+S F 95
+K J 16
+Q U 34
+L H 47
+A N 31
+F E 95
+S A 85
+A D 68
+K H 63
+K L 8
+S O 63
+E Q 60
+Q H 49
+R G 39
+J R 19
+O B 68
+E T 33
+O N 97
+J E 85
+H N 81
+C P 32
+E A 90
+F J 80
+E P 40
+O I 31
+R E 60
+C J 28
+U S 69
+Q O 92
+J T 48
+D M 96
+U B 66
+U I 97
+C L 8
+F U 75
+O E 96
+E C 11
+B E 35
+R K 53
+L N 87
+C B 68
+L P 78
+A I 16
+C I 81
+I N 13
+D I 31
+F D 62
+L G 62
+P E 67
+T G 28
+B K 23
+S L 2
+Q M 27
+M U 12
+J I 61
+K B 50
+G M 26
+U Q 93
+S H 84
+G T 23
+S G 20
+G R 81
+J K 37
+S U 86
+O T 27
+G O 25
+S J 31
+F M 25
+I J 16
+G B 53
+T U 53
+P C 35
+K C 83
+D B 99
+A M 68
+C F 3
+J L 66
+M D 50
+S I 76
+U T 52
+K T 79
+O R 75
+J M 78
+Q I 97
+F A 43
+E S 36
+S D 50
+F N 62
+Q F 46
+U N 79
+B Q 45
+U J 4
+R U 50
+J D 3
+F R 93
+C O 90
+J P 97
+R D 70
+M G 5
+J N 84
+T P 0
+F T 10
+F Q 84
+L J 4
+B L 80
+J Q 23
+F G 30
+A S 22
+C M 56
+J H 76
+O M 74
+J F 35
+O C 51
+M C 70
+U O 34
+E L 45
+C T 72
+S T 79
+O Q 82
+M L 23
+F B 63
+B G 79
+E H 26
+U M 46
+U H 69
+M Q 55
+H L 50
+C S 64
+U K 43
+Q C 67
+Q B 72
+U F 72
+P L 29
+O U 86
+F K 7
+L E 62
+J C 28
+K F 18
+U P 64
+B D 5
+K Q 98
+F L 66
+S Q 41
+K D 21
+K O 52
+C G 81
+K M 40
+L A 46
+R S 49
+F C 0
+F I 15
+N A 57
+K S 54
+M A 90
+C Q 8
+J S 23
+L S 41
+L U 69
+Q E 16
+N P 27
+U G 72
+F H 19
+N O 36
+A K 16
+U L 24
+O P 95
+C A 98
+O F 76
+R T 6
+K G 67
+J G 54
+D L 71
+R J 29
+P R 21
+U E 27
+E B 88
+E D 16
+E F 44
+T C 13
+L T 80
+21
+A 62
+B 80
+C 64
+D 39
+E 55
+F 46
+G 85
+H 17
+I 83
+J 68
+K 59
+L 81
+M 57
+N 17
+O 88
+P 22
+Q 68
+R 7
+S 7
+T 11
+U 15

@@ -1,0 +1,53 @@
+A*
+A
+J
+33
+A F 50
+N E 2
+D I 30
+A L 50
+J F 52
+B K 55
+N B 44
+B P 48
+E G 98
+D N 20
+E K 62
+A K 0
+D E 18
+F N 18
+J G 50
+B O 9
+B H 92
+M I 22
+F P 49
+E J 26
+B M 21
+J L 97
+B D 90
+L J 13
+A B 91
+E N 31
+O B 50
+N M 1
+D O 38
+H I 9
+L H 8
+E B 67
+F L 66
+15
+A 85
+B 80
+D 73
+E 35
+F 28
+G 61
+H 94
+I 59
+J 25
+K 65
+L 53
+M 25
+N 64
+O 50
+P 40

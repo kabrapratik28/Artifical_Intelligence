@@ -1,0 +1,35 @@
+UCS
+A
+G
+21
+E A 5
+A F 18
+C E 39
+I D 21
+A H 25
+D C 58
+I B 72
+G H 32
+B C 68
+B G 13
+G C 37
+D I 39
+C G 98
+B A 94
+A B 10
+A D 12
+G B 52
+E F 92
+C H 44
+D B 6
+B H 85
+9
+A 43
+B 7
+C 76
+D 24
+E 63
+F 68
+G 74
+H 45
+I 2

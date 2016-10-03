@@ -1,0 +1,25 @@
+A*
+A
+B
+12
+C H 3
+E D 44
+I G 23
+I E 27
+H G 13
+D E 22
+C E 12
+A D 47
+C I 41
+A C 16
+E A 6
+C B 89
+8
+A 26
+B 68
+C 37
+D 43
+E 94
+G 52
+H 54
+I 85

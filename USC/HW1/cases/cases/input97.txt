@@ -1,0 +1,35 @@
+DFS
+A
+J
+19
+K N 70
+D J 33
+A N 19
+L N 78
+F J 56
+B F 40
+O C 91
+O L 84
+O M 90
+N F 95
+F N 22
+D A 5
+O D 40
+C B 63
+F O 76
+D K 72
+N A 80
+F D 13
+N D 87
+11
+A 24
+B 6
+C 92
+D 97
+F 89
+J 27
+K 39
+L 65
+M 89
+N 77
+O 39

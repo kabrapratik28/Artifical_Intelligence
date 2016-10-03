@@ -1,0 +1,22 @@
+DFS
+S
+D
+13
+S S 1
+S B 2
+S C 3
+S D 1
+B S 2
+B C 3
+B D 1
+C S 2
+C B 3
+C D 1
+D S 2
+D B 3
+D C 4
+4
+S 1
+B 2
+C 3
+D 4

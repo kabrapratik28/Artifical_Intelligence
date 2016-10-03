@@ -1,0 +1,52 @@
+UCS
+A
+A
+32
+A O 62
+G F 93
+D M 62
+L O 28
+H E 65
+L F 58
+N F 24
+C G 73
+M I 6
+D J 9
+N P 36
+H M 81
+J A 63
+E M 91
+C O 18
+P L 90
+C P 52
+H D 11
+L B 34
+A H 24
+D C 95
+P O 45
+P M 39
+E D 17
+N B 32
+N E 25
+N A 63
+F B 3
+H J 95
+G D 79
+E N 41
+I J 1
+15
+A 18
+B 28
+C 38
+D 23
+E 97
+F 52
+G 75
+H 20
+I 47
+J 4
+L 73
+M 59
+N 89
+O 57
+P 5

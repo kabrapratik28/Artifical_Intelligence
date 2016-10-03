@@ -1,0 +1,9 @@
+A 0
+CS 1
+CD 2
+V 3
+BM 4
+CH 5
+CJ 6
+BX 7
+BE 8
