@@ -2,7 +2,7 @@ Artifical Intelligence tutorial
 
 ============
 
-VIT
+VIT, Pune, India.
 
 ============
 
@@ -18,8 +18,9 @@ VIT
 
 ============
 
-USC
+USC, LA, USA.
 
 ============
 
 HomeWork 1 Maps (BFS,DFS,USC,AStar)
+HomeWork 2 GangGame
