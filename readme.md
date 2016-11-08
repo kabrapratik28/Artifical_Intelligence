@@ -22,5 +22,6 @@ USC, LA, USA.
 
 ============
 
-HomeWork 1 Maps (BFS,DFS,USC,AStar)
-HomeWork 2 GangGame
+1. HomeWork 1 Maps (BFS,DFS,USC,AStar)
+
+2. HomeWork 2 GangGame
