@@ -25,3 +25,5 @@ USC, LA, USA.
 1. HomeWork 1 Maps (BFS,DFS,USC,AStar)
 
 2. HomeWork 2 GangGame
+
+3. HomeWork 3 Logical Inference Engine
